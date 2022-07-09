@@ -1,0 +1,14 @@
+c:\users\santos\documents\visual studio 2013\Projects\JSON-Reader-PDF\JSON-Reader-PDF\bin\Debug\JSON-Reader-PDF.exe.config
+c:\users\santos\documents\visual studio 2013\Projects\JSON-Reader-PDF\JSON-Reader-PDF\obj\Debug\JSON-Reader-PDF.csprojResolveAssemblyReference.cache
+c:\users\santos\documents\visual studio 2013\Projects\JSON-Reader-PDF\JSON-Reader-PDF\obj\Debug\JSON_Reader_PDF.JSONResume.resources
+c:\users\santos\documents\visual studio 2013\Projects\JSON-Reader-PDF\JSON-Reader-PDF\obj\Debug\JSON_Reader_PDF.Properties.Resources.resources
+c:\users\santos\documents\visual studio 2013\Projects\JSON-Reader-PDF\JSON-Reader-PDF\obj\Debug\JSON-Reader-PDF.csproj.GenerateResource.Cache
+c:\users\santos\documents\visual studio 2013\Projects\JSON-Reader-PDF\JSON-Reader-PDF\bin\Debug\JSON-Reader-PDF.exe
+c:\users\santos\documents\visual studio 2013\Projects\JSON-Reader-PDF\JSON-Reader-PDF\bin\Debug\JSON-Reader-PDF.pdb
+c:\users\santos\documents\visual studio 2013\Projects\JSON-Reader-PDF\JSON-Reader-PDF\bin\Debug\Newtonsoft.Json.dll
+c:\users\santos\documents\visual studio 2013\Projects\JSON-Reader-PDF\JSON-Reader-PDF\bin\Debug\Newtonsoft.Json.xml
+c:\users\santos\documents\visual studio 2013\Projects\JSON-Reader-PDF\JSON-Reader-PDF\obj\Debug\JSON-Reader-PDF.exe
+c:\users\santos\documents\visual studio 2013\Projects\JSON-Reader-PDF\JSON-Reader-PDF\obj\Debug\JSON-Reader-PDF.pdb
+c:\users\santos\documents\visual studio 2013\Projects\JSON-Reader-PDF\JSON-Reader-PDF\bin\Debug\BouncyCastle.Crypto.dll
+c:\users\santos\documents\visual studio 2013\Projects\JSON-Reader-PDF\JSON-Reader-PDF\bin\Debug\itextsharp.dll
+c:\users\santos\documents\visual studio 2013\Projects\JSON-Reader-PDF\JSON-Reader-PDF\bin\Debug\itextsharp.xml
